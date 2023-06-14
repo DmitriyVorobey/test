@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  return <div>Hello to awesome qr shop team!</div>;
+  return <div>Hello here!</div>;
 }
 
 export default App;
